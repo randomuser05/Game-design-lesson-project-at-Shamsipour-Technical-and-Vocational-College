@@ -1,4 +1,5 @@
 * text=auto eol=lf
+*.txt text eol=lf
 *.cs text eol=lf
 *.anim text eol=lf
 *.controller text eol=lf
